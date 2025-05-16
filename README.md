@@ -1,5 +1,7 @@
 # Website Scraper
 
+[![smithery badge](https://smithery.ai/badge/@tolik-unicornrider/mcp_scraper)](https://smithery.ai/server/@tolik-unicornrider/mcp_scraper)
+
 A command-line tool and MCP server for scraping websites and converting HTML to Markdown.
 
 ## Features
@@ -12,6 +14,15 @@ A command-line tool and MCP server for scraping websites and converting HTML to 
 
 ## Installation
 
+### Installing via Smithery
+
+To install Website Scraper for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@tolik-unicornrider/mcp_scraper):
+
+```bash
+npx -y @smithery/cli install @tolik-unicornrider/mcp_scraper --client claude
+```
+
+### Manual Installation
 ```bash
 # Install dependencies
 npm install
