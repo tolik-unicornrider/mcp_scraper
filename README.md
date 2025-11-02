@@ -2,6 +2,10 @@
 
 A command-line tool and MCP server for scraping websites and converting HTML to Markdown.
 
+<a href="https://glama.ai/mcp/servers/@tolik-unicornrider/mcp_scraper">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@tolik-unicornrider/mcp_scraper/badge" alt="Website Scraper Server MCP server" />
+</a>
+
 ## Features
 
 - Extracts meaningful content from web pages using Mozilla's [Readability](https://github.com/mozilla/readability) library (the same engine used in Firefox's Reader View)
@@ -87,4 +91,4 @@ async function example() {
 
 ## License
 
-ISC 
+ISC
